@@ -1,4 +1,5 @@
 # ChemTS
+This is Modified by Yuhan GU
 Molecule Design using Monte Carlo Tree Search with Neural Rollout. ChemTS can design novel molecules with desired properties(such as, HOMO-LUMO gap, energy, logp..). Combining with rDock, ChemTS can design molecules active to target proteins. The ChemTS paper is available at https://arxiv.org/abs/1710.00616 .　Also, we introduced the distributed parallel ChemTS that can accerlate molecular discovery. And the distributed parallel ChemTS is available at https://github.com/tsudalab/DP-ChemTS.
 
 #  Requirements 
